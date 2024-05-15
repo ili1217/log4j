@@ -27,5 +27,5 @@ dependencyResolutionManagement {
 然后在 module 的 build.gradle 添加依赖框架
 
 ```groovy
-implementation 'com.github.ili1217:log4j:1.0.0'
+implementation 'com.github.ili1217:log4j:1.0.2'
 ```
